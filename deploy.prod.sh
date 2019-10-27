@@ -1,0 +1,1 @@
+docker run -it -p 80:80 --rm rated-app-prod:0.1
