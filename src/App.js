@@ -1,10 +1,10 @@
 import React from 'react';
 
-import Home from './components/Home';
+import UnderConstruction from '././components/UnderConstruction';
 
 const App = () => {
   return (
-    <Home />
+    <UnderConstruction />
   );
 }
 
